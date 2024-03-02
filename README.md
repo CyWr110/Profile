@@ -1,5 +1,5 @@
 # Quantumult X
 
 * 个人收集的一些复写以及分流规则.
-* 自用QX配置 [***CyWr110.conf***](https://raw.githubusercontent.com/CyWr110/Profile/main/QuantumultX/QuantumultX.conf)
+* 自用QX配置 [***CyWr110.conf***](https://raw.githubusercontent.com/CyWr110/Profile/main/QuantumultX/CyWr110.conf)
 * 在此感谢[@ddgksf2013](https://github.com/CyWr110/ddgksf2013)[@KOP-XIAO](https://github.com/KOP-XIAO)[@blackmatrix7](https://github.com/blackmatrix7)
