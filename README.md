@@ -1,1 +1,29 @@
-# Profile
+<img src="https://count.getloli.com/get/@:CyWr110" alt=":CyWr110" />
+
+# hello 
+
+* 懒人配置：
+  
+  [*QuantumultX*](https://raw.githubusercontent.com/CyWr110/Profile/main/QuantumultX/QuantumultX.conf)
+
+  [*Shadowrocket*](https://raw.githubusercontent.com/CyWr110/Profile/main/Shadowrocket/Shadowrocket.conf)
+
+  [*Surge*](https://raw.githubusercontent.com/CyWr110/Profile/main/Surge/Surge.conf)
+
+  [*Surge开发者推荐的最小配置*](https://gist.githubusercontent.com/Zeaphyou/864aebea248ca1bb8000e0e5623b65f3/raw/c36413c715f43f22772d3c2353358e1ff936b2e6/Surge.conf)
+
+
+* 这是本人个人收集的一些复写以及分流规则.
+* 适合自己的才是最好的.
+
+# 特别感谢：
+
+以下排名不分先后
+
+[*@ddgksf2013*](https://github.com/ddgksf2013) [*@Blackmatrix7*](https://github.com/blackmatrix7/ios_rule_script) [*@DivineEngine*](https://github.com/DivineEngine) [*@App2smile*](https://github.com/app2smile/rules)  [*@Peng-YM*](https://github.com/Peng-YM) [*@Nick-workflow*](https://github.com/Nick-workflow) [*@KOP-XIAO*](https://github.com/KOP-XIAO) [*@NobyDa*](https://github.com/NobyDa) [*@Neurogram-R*](https://github.com/Neurogram-R) [*@yjqiang*](https://github.com/yjqiang) [*@O7Y0*](https://github.com/O7Y0) [*@Choler*](https://github.com/Choler) [*@id77*](https://github.com/id77) [*@zmqcherish*](https://github.com/zmqcherish) [*@Qure*](https://github.com/Koolson/Qure) [*@Orz-3*](https://github.com/Orz-3) [*@kyle*](https://github.com/Xirou) [*@HotKids*](https://github.com/hotKids) [*@langkach*](https://github.com/langkhach270389) [*@lxk0301*](https://github.com/lxk0301) [*@zqzess*](https://github.com/zqzess/rule_for_quantumultX) [*@Anti-AD*](https://github.com/privacy-protection-tools/anti-AD) [*@VirgilClyne*](https://github.com/VirgilClyne/iRingo#iringo) [*@zZPiglet*](https://github.com/zZPiglet/Task/tree/master) [*@Chavyleung*](https://github.com/chavyleung) [*@tugepaopao*](https://github.com/tugepaopao/Image-Storage) [*@Yuanxsxs*](https://github.com/Yuanxsxs) [*@LovedGM*](https://github.com/LovedGM/Quantumult-X-TuBiao) [*@Semporia*](https://github.com/Semporia) [*@Koolson*](https://github.com/Koolson)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CyWr110/Profile&type=Date)](https://star-history.com/#CyWr110/Profile&Date)
+
+### [回到顶部](https://github.com/CyWr110/Profile?tab=readme-ov-file#readme)
